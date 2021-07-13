@@ -1,7 +1,3 @@
-![Github FullStack](https://user-images.githubusercontent.com/16636086/123956591-2480fc00-d9ab-11eb-8f65-fba1156bd03a.png)
-
-Repositorio de ejemplos de clase. Semana 12 - Laravel 8 Api Rest - Passport
-
 <p align="center"><a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400"></a></p>
 
 <p align="center">
